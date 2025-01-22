@@ -1,4 +1,4 @@
-s# Data-Science
+ss# Data-Science
 
 Welcome to the Data Science Repository! Here, you'll find a comprehensive collection of topics ranging from **Git** fundamentals and **Python** basics to advanced concepts, including **Machine Learning** algorithms, **Deep Learning** for computer vision using **PyTorch**, and **OpenCV**. These topics will be constantly updated as this repository serves as a record of my ongoing learning and understanding.
 
