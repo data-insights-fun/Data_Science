@@ -5,7 +5,7 @@ Welcome to the PyTorch Deep Learning repository! Here, you'll discover a curated
 ## Table of Contents
 
 - [00 - PyTorch Fundamentals](https://github.com/SahashRaee/Data_Science/tree/main/4.Deep_Learning_in_PyTorch/00_Pytorch_Fundamentals)
-- [01 - PyTorch Workflow](https://github.com/LuluW8071/Data-Science/tree/main/Pytorch/01_Pytorch_Workflow)
+- [01 - PyTorch Workflow](https://github.com/SahashRaee/Data_Science/tree/main/4.Deep_Learning_in_PyTorch/01_PyTorch_Workflow)
 - [02 - PyTorch Neural Network Classification](https://github.com/LuluW8071/Data-Science/tree/main/Pytorch/02_PyTorch_Neural_Network_Classification)
 - [03 - PyTorch Computer Vision](https://github.com/LuluW8071/Data-Science/tree/main/Pytorch/03_PyTorch_Computer_Vision)
 - [04 - PyTorch Custom Datasets](https://github.com/LuluW8071/Data-Science/tree/main/Pytorch/04_PyTorch_Custom_Datasets)
