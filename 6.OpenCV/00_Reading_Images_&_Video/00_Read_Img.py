@@ -3,7 +3,7 @@
 # Import openCV library
 import cv2 as cv
 
-# Read image using cv.imread()
+# Read images using cv.imread()
 # NOTE: Gives assertion error if it failes to read image
 img1 = cv.imread("../../assets/Photos/cat.jpg")
 img2 = cv.imread("../../assets/Photos/cat_large.jpg")
