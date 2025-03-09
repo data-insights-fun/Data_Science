@@ -1,12 +1,12 @@
 # OpenCV
 
-This repository provides a comprehensive guide to getting started with **OpenCV** in Python. We cover the fundamental concepts of OpenCV, including reading images and videos, performing image transformations, drawing shapes and text, and advanced topics like color spaces, masking, edge detection, and face detection/recognition.
+This repository provides a comprehensive guide to getting started with **OpenCV** in Python. I cover the fundamental concepts of OpenCV, including reading images and videos, performing image transformations, drawing shapes and text, and advanced topics like color spaces, masking, edge detection, and face detection/recognition.
 
 <img src = "https://user-images.githubusercontent.com/37084898/45520936-611ee100-b7d9-11e8-816b-38a4ff6cb3f4.gif">
 
 ## Getting Started
 
-To begin with, ensure you have Python installed on your system. We recommend using a virtual environment for this project. Here's how to check your Python version:
+To begin with, ensure you have Python installed on your system. I recommend using a virtual environment for this project. Here's how to check your Python version:
 
 ```bash
 py --version
@@ -36,7 +36,7 @@ pip install matplotlib
 
 ## Building a Deep Computer Vision Model
 
-Finally, after mastering the basic concepts and delving into advanced topics, we culminate our journey by demonstrating the construction of a deep computer vision model capable of classifying characters from The Simpsons based on images.
+Finally, after mastering the basic concepts and delving into advanced topics, I culminate our journey by demonstrating the construction of a deep computer vision model capable of classifying characters from The Simpsons based on images.
 
 ## Material Availability
 
