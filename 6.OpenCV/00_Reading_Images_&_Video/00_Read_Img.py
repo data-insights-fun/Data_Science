@@ -1,4 +1,4 @@
-""" Read Images using OpenCV """
+""" Read Images using OpenCV """s
 
 # Import openCV library
 import cv2 as cv
